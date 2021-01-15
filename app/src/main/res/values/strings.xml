@@ -1,3 +1,7 @@
 <resources>
-    <string name="app_name">AndroidAcademy</string>
+    <string name="app_name" translatable="false">AndroidAcademy</string>
+    <string name="hello" translatable="false">Hello World!</string>
+    <string name="hello_land_world">Hello Land World</string>
+    <string name="hello_world">Hi</string>
+    <string name="title_activity_second">SecondActivity</string>
 </resources>
