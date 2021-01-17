@@ -16,7 +16,7 @@ class SecondActivity : AppCompatActivity() {
         val tr_s = intent.getStringExtra(TR_S)
         val tr_i = intent.getIntExtra(TR_I, -1)
         val tr_b = intent.getBooleanExtra(TR_B, false)
-        val textview: TextView = findViewById(R.id.second_activity_text_view)
-        textview.text = tr_s
+        val testier: TextView = findViewById(R.id.second_activity_text_view)
+        testier.text = tr_s
     }
 }
