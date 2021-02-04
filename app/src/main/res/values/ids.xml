@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="textView" type="id">ageText</item>
+    <item name="imageView" type="id">back_btn</item>
+    <item name="frameLayout" type="id">anvengersFrame</item>
+    <item name="backView" type="id">backView</item>
+    <item name="guidelineStart" type="id">guidelineStart</item>
+    <item name="guidelineEnd" type="id">guidelineEnd</item>
+    <item name="lableText" type="id">lableText</item>
+    <item name="raitingBar" type="id">raitingBar</item>
+    <item name="starOne" type="id">starOne</item>
+    <item name="starTwo" type="id">starTwo</item>
+    <item name="starFore" type="id">starFore</item>
+    <item name="starThree" type="id">starThree</item>
+    <item name="starFive" type="id">starFive</item>
+    <item name="labelTwo" type="id">labelTwo</item>
+    <item name="labelThree" type="id">labelThree</item>
+    <item name="labelfore" type="id">labelfore</item>
+    <item name="actorOne" type="id">actorOne</item>
+    <item name="actorTwo" type="id">actorTwo</item>
+    <item name="actorThree" type="id">actorThree</item>
+    <item name="actorFore" type="id">actorFore</item>
+</resources>
